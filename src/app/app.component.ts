@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular (6+) Datatables Demo';
+  title = 'Angular v8 Datatables Demo';
 }
